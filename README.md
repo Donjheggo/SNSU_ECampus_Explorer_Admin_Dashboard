@@ -1,1 +1,1 @@
-# Stylish Furniture Admin Dashboard
+# SNSU ECampus Explorer Admin Dashboard
